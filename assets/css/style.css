@@ -1,12 +1,9 @@
-#firstsection{
-    background-color: blue
+.firstsection{
+    background-color: #2574A9
 }
-#secondsection{
-    background-color: #FF00FF
+.secondsection{
+    background-color: #9A12B3
 }
-#thirdsection{
-    background-color: #FF0080
-}
-p{
-  margin: 10px
+.thirdsection{
+    background-color: #DB0A5B
 }
