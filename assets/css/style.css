@@ -1,11 +1,12 @@
-fieldset{
-  
+#firstsection{
+    background-color: blue
+}
+#secondsection{
+    background-color: #FF00FF
+}
+#thirdsection{
+    background-color: #FF0080
 }
 p{
   margin: 10px
-}
-form{
-  background-color: blue
-  background-color: #EE82EE
-  background-color: #FF00FF
 }
