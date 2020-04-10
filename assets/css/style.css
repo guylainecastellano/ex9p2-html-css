@@ -1,9 +1,12 @@
-.firstsection{
+.firstSection{
     background-color: #2574A9
 }
-.secondsection{
+.secondSection{
     background-color: #9A12B3
 }
-.thirdsection{
+.thirdSection{
     background-color: #DB0A5B
+}
+ul{
+  list-style-type: none;
 }
